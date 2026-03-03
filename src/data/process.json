@@ -1,0 +1,122 @@
+[
+  {
+    "step": "01",
+    "duration": "1–2 Wochen",
+    "de": {
+      "title": "Analyse & Anforderungen",
+      "description": "Wir verstehen Ihr Unternehmen, Ihre Prozesse und Ihre Ziele. Kein Projekt beginnt ohne ein vollständiges Bild davon, was gebaut werden soll und warum.",
+      "details": ["Detailliertes Erstgespräch (60 Min)", "Technische Anforderungsanalyse", "Wettbewerbsanalyse falls relevant", "Schriftliche Projektspezifikation"]
+    },
+    "en": {
+      "title": "Analysis & Requirements",
+      "description": "We understand your business, your processes, and your goals. No project begins without a complete picture of what needs to be built and why.",
+      "details": ["Detailed first consultation (60 min)", "Technical requirements analysis", "Competitive analysis if relevant", "Written project specification"]
+    },
+    "ar": {
+      "title": "التحليل والمتطلبات",
+      "description": "نفهم عملك وعملياتك وأهدافك. لا يبدأ أي مشروع دون صورة كاملة عما يجب بناؤه ولماذا.",
+      "details": ["استشارة أولية مفصلة (60 دقيقة)", "تحليل المتطلبات التقنية", "تحليل المنافسين عند الاقتضاء", "مواصفات المشروع المكتوبة"]
+    },
+    "tr": {
+      "title": "Analiz & Gereksinimler",
+      "description": "İşinizi, süreçlerinizi ve hedeflerinizi anlıyoruz. Hiçbir proje, neyin neden inşa edileceğine dair tam bir resim olmadan başlamaz.",
+      "details": ["Detaylı ilk danışma (60 dk)", "Teknik gereksinim analizi", "Gerekirse rekabet analizi", "Yazılı proje spesifikasyonu"]
+    }
+  },
+  {
+    "step": "02",
+    "duration": "1–2 Wochen",
+    "de": {
+      "title": "Systemarchitektur & Angebot",
+      "description": "Wir entwerfen die technische Architektur und liefern ein detailliertes Angebot mit klaren Meilensteinen, Zeitplan und Festpreisgarantie.",
+      "details": ["Technischer Architekturplan", "Detailliertes Angebot mit Festpreis", "Zeitplan mit Meilensteinen", "Vertragsunterzeichnung"]
+    },
+    "en": {
+      "title": "System Architecture & Proposal",
+      "description": "We design the technical architecture and deliver a detailed proposal with clear milestones, timeline, and fixed price guarantee.",
+      "details": ["Technical architecture plan", "Detailed proposal with fixed price", "Timeline with milestones", "Contract signing"]
+    },
+    "ar": {
+      "title": "هندسة النظام والاقتراح",
+      "description": "نصمم البنية التقنية ونقدم اقتراحاً مفصلاً بأسعار ثابتة وجداول زمنية واضحة.",
+      "details": ["خطة البنية التقنية", "اقتراح مفصل بسعر ثابت", "جدول زمني مع مراحل", "توقيع العقد"]
+    },
+    "tr": {
+      "title": "Sistem Mimarisi & Teklif",
+      "description": "Teknik mimariyi tasarlıyor ve net kilometre taşları, zaman çizelgesi ve sabit fiyat garantisiyle detaylı teklif sunuyoruz.",
+      "details": ["Teknik mimari planı", "Sabit fiyatlı detaylı teklif", "Kilometre taşlarıyla zaman çizelgesi", "Sözleşme imzalama"]
+    }
+  },
+  {
+    "step": "03",
+    "duration": "4–8 Wochen",
+    "de": {
+      "title": "Entwicklung & Qualitätssicherung",
+      "description": "Agile Entwicklung in zweiwöchigen Sprints mit regelmäßigen Updates. Sie sehen den Fortschritt — keine Überraschungen am Ende.",
+      "details": ["Zweiwöchige Entwicklungssprints", "Regelmäßige Fortschritts-Updates", "Automatisierte Tests & Code-Reviews", "Staging-Umgebung zum Testen"]
+    },
+    "en": {
+      "title": "Development & Quality Assurance",
+      "description": "Agile development in two-week sprints with regular updates. You see the progress — no surprises at the end.",
+      "details": ["Two-week development sprints", "Regular progress updates", "Automated tests & code reviews", "Staging environment for testing"]
+    },
+    "ar": {
+      "title": "التطوير وضمان الجودة",
+      "description": "تطوير رشيق في دورات أسبوعيتين مع تحديثات منتظمة. ترى التقدم — لا مفاجآت في النهاية.",
+      "details": ["دورات تطوير أسبوعيتين", "تحديثات تقدم منتظمة", "اختبارات آلية ومراجعات الكود", "بيئة تجريبية للاختبار"]
+    },
+    "tr": {
+      "title": "Geliştirme & Kalite Güvence",
+      "description": "İki haftalık sprint'lerde çevik geliştirme ve düzenli güncellemeler. İlerlemeyi görüyorsunuz — sonda sürpriz yok.",
+      "details": ["İki haftalık geliştirme sprint'leri", "Düzenli ilerleme güncellemeleri", "Otomatik testler & kod incelemeleri", "Test için staging ortamı"]
+    }
+  },
+  {
+    "step": "04",
+    "duration": "1 Woche",
+    "de": {
+      "title": "Launch & Übergabe",
+      "description": "Reibungsloser Go-Live mit vollständiger Dokumentation, Schulung Ihres Teams und Monitoring-Setup.",
+      "details": ["Produktions-Deployment", "Vollständige technische Dokumentation", "Team-Schulung (1–2 Stunden)", "Monitoring & Alerting Setup"]
+    },
+    "en": {
+      "title": "Launch & Handover",
+      "description": "Smooth go-live with complete documentation, team training, and monitoring setup.",
+      "details": ["Production deployment", "Complete technical documentation", "Team training (1–2 hours)", "Monitoring & alerting setup"]
+    },
+    "ar": {
+      "title": "الإطلاق والتسليم",
+      "description": "إطلاق سلس مع توثيق كامل وتدريب فريقك وإعداد المراقبة.",
+      "details": ["نشر الإنتاج", "توثيق تقني كامل", "تدريب الفريق (1-2 ساعة)", "إعداد المراقبة والتنبيهات"]
+    },
+    "tr": {
+      "title": "Lansman & Devir",
+      "description": "Eksiksiz dokümantasyon, ekip eğitimi ve izleme kurulumu ile sorunsuz canlıya geçiş.",
+      "details": ["Prodüksiyon deployment", "Eksiksiz teknik dokümantasyon", "Ekip eğitimi (1-2 saat)", "İzleme ve uyarı kurulumu"]
+    }
+  },
+  {
+    "step": "05",
+    "duration": "Laufend",
+    "de": {
+      "title": "Support & Weiterentwicklung",
+      "description": "Ihre Systeme werden gepflegt, aktualisiert und bei Bedarf erweitert. Wir sind Ihr langfristiger technischer Partner.",
+      "details": ["Monatliche Wartungspakete", "Prioritäts-Support (< 24h Reaktionszeit)", "Regelmäßige Performance-Berichte", "Feature-Erweiterungen nach Bedarf"]
+    },
+    "en": {
+      "title": "Support & Further Development",
+      "description": "Your systems are maintained, updated, and extended as needed. We are your long-term technical partner.",
+      "details": ["Monthly maintenance packages", "Priority support (< 24h response time)", "Regular performance reports", "Feature extensions as needed"]
+    },
+    "ar": {
+      "title": "الدعم والتطوير المستمر",
+      "description": "يتم صيانة أنظمتك وتحديثها وتوسيعها حسب الحاجة. نحن شريكك التقني طويل الأمد.",
+      "details": ["حزم الصيانة الشهرية", "دعم أولوية (< 24 ساعة وقت الاستجابة)", "تقارير الأداء المنتظمة", "توسعات الميزات حسب الحاجة"]
+    },
+    "tr": {
+      "title": "Destek & Sürekli Geliştirme",
+      "description": "Sistemleriniz gerektiği gibi bakımı yapılır, güncellenir ve genişletilir. Uzun vadeli teknik ortağınızız.",
+      "details": ["Aylık bakım paketleri", "Öncelikli destek (< 24 saat yanıt süresi)", "Düzenli performans raporları", "Gerektiğinde özellik genişletmeleri"]
+    }
+  }
+]

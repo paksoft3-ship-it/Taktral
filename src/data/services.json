@@ -1,0 +1,183 @@
+[
+  {
+    "id": "digital-infrastructure",
+    "icon": "grid",
+    "color": "navy",
+    "de": {
+      "title": "Digitale Infrastruktur",
+      "tagline": "Das Fundament Ihres digitalen Betriebs",
+      "description": "Wir bauen die technische Grundlage, auf der Ihr Unternehmen digital operiert. Datenbanken, Server-Architekturen, API-Systeme und Cloud-Infrastruktur — alles strukturiert, dokumentiert und skalierbar.",
+      "simpleExplanation": "Stellen Sie sich vor, Sie bauen ein Gebäude. Bevor Möbel oder Dekoration kommen, brauchen Sie ein stabiles Fundament, Stromleitungen und Wasserleitungen. Das machen wir digital — wir legen die unsichtbare Infrastruktur, die alles andere trägt.",
+      "deliverables": ["Web-Applikationen (Next.js, React)", "Backend-Systeme und Datenbanken", "API-Entwicklung und Integrationen", "Cloud-Infrastruktur (AWS, Vercel, Docker)", "SaaS-Plattformen und Multi-Tenant-Architekturen", "Enterprise Software (CRM, ERP, HRMS)"],
+      "clientQuestion": "Wir brauchen eine solide technische Basis für unser Wachstum."
+    },
+    "en": {
+      "title": "Digital Infrastructure",
+      "tagline": "The foundation your digital operations run on",
+      "description": "We build the technical backbone your business runs on digitally. Databases, server architectures, API systems, and cloud infrastructure — all structured, documented, and scalable.",
+      "simpleExplanation": "Think of building a house. Before furniture or decoration, you need a solid foundation, electrical wiring, and plumbing. We do this digitally — we lay the invisible infrastructure that carries everything else.",
+      "deliverables": ["Web Applications (Next.js, React)", "Backend Systems and Databases", "API Development and Integrations", "Cloud Infrastructure (AWS, Vercel, Docker)", "SaaS Platforms and Multi-Tenant Architectures", "Enterprise Software (CRM, ERP, HRMS)"],
+      "clientQuestion": "We need a solid technical base for our growth."
+    },
+    "ar": {
+      "title": "البنية التحتية الرقمية",
+      "tagline": "الأساس الذي تعمل عليه عملياتك الرقمية",
+      "description": "نبني العمود الفقري التقني الذي يعمل عليه عملك رقمياً. قواعد البيانات، بنى الخادم، أنظمة API والبنية التحتية السحابية — كل شيء منظم وموثق وقابل للتوسع.",
+      "simpleExplanation": "فكر في بناء منزل. قبل الأثاث أو الديكور، تحتاج إلى أساس متين وتوصيلات كهربائية وسباكة. نحن نفعل هذا رقمياً.",
+      "deliverables": ["تطبيقات الويب", "أنظمة الخلفية وقواعد البيانات", "تطوير API والتكاملات", "البنية التحتية السحابية", "منصات SaaS", "برمجيات المؤسسات"],
+      "clientQuestion": "نحتاج إلى قاعدة تقنية متينة لنمونا."
+    },
+    "tr": {
+      "title": "Dijital Altyapı",
+      "tagline": "Dijital operasyonlarınızın çalıştığı temel",
+      "description": "İşinizin dijital olarak üzerinde çalıştığı teknik omurgayı inşa ediyoruz. Veritabanları, sunucu mimarileri, API sistemleri ve bulut altyapısı — hepsi yapılandırılmış, belgelenmiş ve ölçeklenebilir.",
+      "simpleExplanation": "Bir bina inşa ettiğinizi düşünün. Mobilya veya dekorasyondan önce sağlam bir temel, elektrik tesisatı ve sıhhi tesisat gerekir. Biz bunu dijital olarak yapıyoruz.",
+      "deliverables": ["Web Uygulamaları (Next.js, React)", "Backend Sistemler ve Veritabanları", "API Geliştirme ve Entegrasyonlar", "Bulut Altyapısı (AWS, Vercel, Docker)", "SaaS Platformları", "Kurumsal Yazılım (CRM, ERP, HRMS)"],
+      "clientQuestion": "Büyümemiz için sağlam bir teknik temel ihtiyacımız var."
+    }
+  },
+  {
+    "id": "ecommerce-systems",
+    "icon": "shopping-cart",
+    "de": {
+      "title": "E-Commerce Systeme",
+      "tagline": "Verkaufsmaschinen, die rund um die Uhr arbeiten",
+      "description": "Wir bauen Online-Shops, die nicht nur schön aussehen — sondern systematisch verkaufen. Zahlungsabwicklung, Lagerverwaltung, automatische Bestellprozesse, Kundenportale.",
+      "simpleExplanation": "Ein gewöhnlicher Online-Shop ist wie ein Verkäufer, der manchmal schläft. Unsere E-Commerce-Systeme sind wie ein vollautomatisches Verkaufsteam, das 24/7 arbeitet, Bestellungen verwaltet, Rechnungen erstellt und Kunden betreut — ohne menschlichen Eingriff.",
+      "deliverables": ["Custom E-Commerce Plattformen", "Shopify & WooCommerce Entwicklung", "B2B E-Commerce Portale", "Zahlungsintegration (Stripe, PayPal, lokale Anbieter)", "Automatische Bestell- und Lagerverwaltung", "Marketplace-Entwicklung"],
+      "clientQuestion": "Wir wollen online verkaufen — professionell, automatisch, skalierbar."
+    },
+    "en": {
+      "title": "E-Commerce Systems",
+      "tagline": "Sales machines that work around the clock",
+      "description": "We build online stores that don't just look good — they sell systematically. Payment processing, inventory management, automated order workflows, customer portals.",
+      "simpleExplanation": "A normal online shop is like a salesperson who sometimes sleeps. Our e-commerce systems are like a fully automated sales team working 24/7 — managing orders, generating invoices, and handling customers without human intervention.",
+      "deliverables": ["Custom E-Commerce Platforms", "Shopify & WooCommerce Development", "B2B E-Commerce Portals", "Payment Integration (Stripe, PayPal, local providers)", "Automated Order & Inventory Management", "Marketplace Development"],
+      "clientQuestion": "We want to sell online — professionally, automatically, scalably."
+    },
+    "ar": {
+      "title": "أنظمة التجارة الإلكترونية",
+      "tagline": "آلات مبيعات تعمل على مدار الساعة",
+      "description": "نبني متاجر إلكترونية لا تبدو جميلة فحسب — بل تبيع بشكل منهجي.",
+      "simpleExplanation": "المتجر الإلكتروني العادي مثل بائع ينام أحياناً. أنظمتنا مثل فريق مبيعات آلي يعمل 24/7.",
+      "deliverables": ["منصات التجارة الإلكترونية المخصصة", "تطوير Shopify و WooCommerce", "بوابات B2B", "تكامل الدفع", "إدارة الطلبات والمخزون الآلية", "تطوير الأسواق"],
+      "clientQuestion": "نريد البيع عبر الإنترنت — باحترافية وأتمتة وقابلية للتوسع."
+    },
+    "tr": {
+      "title": "E-Ticaret Sistemleri",
+      "tagline": "7/24 çalışan satış makineleri",
+      "description": "Sadece güzel görünen değil, sistematik olarak satan online mağazalar inşa ediyoruz.",
+      "simpleExplanation": "Normal bir online mağaza bazen uyuyan bir satıcı gibidir. Sistemlerimiz 7/24 çalışan tam otomatik bir satış ekibi gibidir — sipariş yönetir, fatura oluşturur, müşteri hizmeti sağlar.",
+      "deliverables": ["Özel E-Ticaret Platformları", "Shopify & WooCommerce Geliştirme", "B2B E-Ticaret Portalları", "Ödeme Entegrasyonu", "Otomatik Sipariş ve Stok Yönetimi", "Pazar Yeri Geliştirme"],
+      "clientQuestion": "Profesyonel, otomatik ve ölçeklenebilir şekilde online satış yapmak istiyoruz."
+    }
+  },
+  {
+    "id": "automation-ai",
+    "icon": "cpu",
+    "de": {
+      "title": "Automatisierung & KI",
+      "tagline": "Wiederkehrende Arbeit wird zu automatisierten Prozessen",
+      "description": "Wir identifizieren die manuellen, zeitraubenden Prozesse in Ihrem Unternehmen und automatisieren sie. Von E-Mail-Workflows bis zu KI-gestützten Kundenservice-Systemen.",
+      "simpleExplanation": "Denken Sie an alle Aufgaben in Ihrem Unternehmen, die jemand immer wieder macht: Daten eingeben, E-Mails beantworten, Berichte erstellen, Bestellungen verarbeiten. Wir bauen Systeme, die das automatisch erledigen — damit Ihr Team sich auf echte Arbeit konzentriert.",
+      "deliverables": ["Geschäftsprozess-Automatisierung (n8n, Zapier, Make)", "KI-Kundenservice & Chatbots", "Daten-Automatisierung und Reporting", "E-Mail & CRM Automatisierung", "Dokumentenverarbeitung mit KI", "Workflow-Integration zwischen bestehenden Systemen"],
+      "clientQuestion": "Unsere Mitarbeiter verbringen zu viel Zeit mit manuellen, wiederholbaren Aufgaben."
+    },
+    "en": {
+      "title": "Automation & AI",
+      "tagline": "Repetitive work becomes automated processes",
+      "description": "We identify the manual, time-consuming processes in your company and automate them. From email workflows to AI-powered customer service systems.",
+      "simpleExplanation": "Think of all the tasks in your company that someone does over and over: entering data, answering emails, creating reports, processing orders. We build systems that do this automatically — so your team can focus on real work.",
+      "deliverables": ["Business Process Automation (n8n, Zapier, Make)", "AI Customer Service & Chatbots", "Data Automation and Reporting", "Email & CRM Automation", "Document Processing with AI", "Workflow Integration between existing systems"],
+      "clientQuestion": "Our staff spends too much time on manual, repetitive tasks."
+    },
+    "ar": {
+      "title": "الأتمتة والذكاء الاصطناعي",
+      "tagline": "العمل المتكرر يصبح عمليات آلية",
+      "description": "نحدد العمليات اليدوية المستهلكة للوقت في شركتك ونؤتمتها.",
+      "simpleExplanation": "فكر في جميع المهام في شركتك التي يقوم بها شخص مراراً وتكراراً. نبني أنظمة تقوم بذلك تلقائياً.",
+      "deliverables": ["أتمتة العمليات التجارية", "خدمة عملاء AI وروبوتات المحادثة", "أتمتة البيانات والتقارير", "أتمتة البريد الإلكتروني وCRM", "معالجة المستندات بالذكاء الاصطناعي", "تكامل سير العمل"],
+      "clientQuestion": "موظفونا يقضون وقتاً طويلاً في مهام يدوية متكررة."
+    },
+    "tr": {
+      "title": "Otomasyon & Yapay Zeka",
+      "tagline": "Tekrarlayan iş otomatik süreçlere dönüşür",
+      "description": "Şirketinizdeki manuel, zaman alıcı süreçleri tespit ediyor ve otomatikleştiriyoruz.",
+      "simpleExplanation": "Şirketinizdeki sürekli tekrarlanan tüm görevleri düşünün: veri girişi, e-posta yanıtlama, rapor oluşturma. Bunları otomatik yapan sistemler inşa ediyoruz.",
+      "deliverables": ["İş Süreci Otomasyonu (n8n, Zapier, Make)", "Yapay Zeka Müşteri Hizmetleri ve Chatbotlar", "Veri Otomasyonu ve Raporlama", "E-posta ve CRM Otomasyonu", "Yapay Zeka ile Belge İşleme", "Mevcut Sistemler Arası İş Akışı Entegrasyonu"],
+      "clientQuestion": "Çalışanlarımız manuel, tekrarlayan görevlere çok zaman harcıyor."
+    }
+  },
+  {
+    "id": "performance-marketing",
+    "icon": "trending-up",
+    "de": {
+      "title": "Performance Marketing Systeme",
+      "tagline": "Marketing das messbar Umsatz generiert",
+      "description": "Wir bauen keine Werbekampagnen ins Blaue — wir bauen messbare Marketing-Systeme. Google Ads, Meta Ads, SEO und Analytics so eingerichtet, dass jeder Euro Werbebudget nachverfolgt wird.",
+      "simpleExplanation": "Die meisten Unternehmen wissen nicht, welche ihrer Marketingausgaben tatsächlich Kunden bringen. Wir bauen ein System, das Ihnen genau zeigt: dieser Klick hat diese Anfrage gebracht, diese Anfrage hat diesen Auftrag generiert. Sie sehen den Return on Investment jedes einzelnen Euros.",
+      "deliverables": ["Google Ads Kampagnen & Optimierung", "Meta (Facebook/Instagram) Ads", "SEO-Strategie und Umsetzung", "Analytics & Conversion-Tracking (GA4, GTM)", "Landing Page Optimierung", "Marketing Automatisierung"],
+      "clientQuestion": "Wir geben Geld für Marketing aus, wissen aber nicht was es bringt."
+    },
+    "en": {
+      "title": "Performance Marketing Systems",
+      "tagline": "Marketing that measurably generates revenue",
+      "description": "We don't build ad campaigns into the blue — we build measurable marketing systems. Google Ads, Meta Ads, SEO and analytics configured so every euro of ad budget is tracked.",
+      "simpleExplanation": "Most companies don't know which of their marketing spending actually brings customers. We build a system that shows you exactly: this click brought this inquiry, this inquiry generated this project. You see the return on investment of every single euro.",
+      "deliverables": ["Google Ads Campaigns & Optimization", "Meta (Facebook/Instagram) Ads", "SEO Strategy and Implementation", "Analytics & Conversion Tracking (GA4, GTM)", "Landing Page Optimization", "Marketing Automation"],
+      "clientQuestion": "We spend money on marketing but don't know what it returns."
+    },
+    "ar": {
+      "title": "أنظمة التسويق القائم على الأداء",
+      "tagline": "تسويق يولد إيرادات قابلة للقياس",
+      "description": "لا نبني حملات إعلانية عشوائية — نبني أنظمة تسويق قابلة للقياس.",
+      "simpleExplanation": "معظم الشركات لا تعرف أي إنفاقها التسويقي يجلب فعلاً عملاء. نبني نظاماً يُظهر لك بالضبط عائد الاستثمار لكل يورو.",
+      "deliverables": ["حملات Google Ads", "إعلانات Meta", "استراتيجية SEO", "تتبع التحويل والتحليلات", "تحسين صفحات الهبوط", "أتمتة التسويق"],
+      "clientQuestion": "ننفق على التسويق لكننا لا نعرف ما يعود علينا."
+    },
+    "tr": {
+      "title": "Performans Pazarlama Sistemleri",
+      "tagline": "Ölçülebilir gelir yaratan pazarlama",
+      "description": "Rastgele reklam kampanyaları değil, ölçülebilir pazarlama sistemleri inşa ediyoruz.",
+      "simpleExplanation": "Çoğu şirket hangi pazarlama harcamalarının gerçekten müşteri getirdiğini bilmiyor. Her Euro'nun yatırım getirisini gösteren bir sistem inşa ediyoruz.",
+      "deliverables": ["Google Ads Kampanyaları", "Meta Reklamları", "SEO Stratejisi ve Uygulaması", "Analitik ve Dönüşüm Takibi (GA4, GTM)", "Açılış Sayfası Optimizasyonu", "Pazarlama Otomasyonu"],
+      "clientQuestion": "Pazarlamaya para harcıyoruz ama ne getirdiğini bilmiyoruz."
+    }
+  },
+  {
+    "id": "mobile-apps",
+    "icon": "smartphone",
+    "de": {
+      "title": "Mobile Applikationen",
+      "tagline": "Ihr Unternehmen in der Hosentasche Ihrer Kunden",
+      "description": "Native und cross-platform Mobile Apps für iOS und Android. Von internen Unternehmens-Apps bis zu kundenorientierten Anwendungen.",
+      "simpleExplanation": "Wenn Ihre Kunden oder Mitarbeiter eine App brauchen, die überall funktioniert — auf iPhone und Android — bauen wir sie. Eine Anwendung, zwei Plattformen, ein Entwicklungsaufwand.",
+      "deliverables": ["iOS und Android Apps (React Native)", "Cross-Platform Entwicklung (Flutter)", "Interne Unternehmens-Apps", "Kunden-Apps mit Backend-Integration", "App Store Deployment"],
+      "clientQuestion": "Wir brauchen eine App für unsere Kunden oder Mitarbeiter."
+    },
+    "en": {
+      "title": "Mobile Applications",
+      "tagline": "Your business in your customers' pockets",
+      "description": "Native and cross-platform mobile apps for iOS and Android. From internal business apps to customer-facing applications.",
+      "simpleExplanation": "When your customers or employees need an app that works everywhere — on iPhone and Android — we build it. One application, two platforms, one development effort.",
+      "deliverables": ["iOS and Android Apps (React Native)", "Cross-Platform Development (Flutter)", "Internal Business Apps", "Customer Apps with Backend Integration", "App Store Deployment"],
+      "clientQuestion": "We need an app for our customers or employees."
+    },
+    "ar": {
+      "title": "تطبيقات الجوال",
+      "tagline": "عملك في جيب عملائك",
+      "description": "تطبيقات جوال أصلية ومتعددة المنصات لنظامي iOS وAndroid.",
+      "simpleExplanation": "عندما يحتاج عملاؤك أو موظفوك إلى تطبيق يعمل في كل مكان، نبنيه لك.",
+      "deliverables": ["تطبيقات iOS وAndroid", "تطوير متعدد المنصات", "تطبيقات الأعمال الداخلية", "تطبيقات العملاء مع تكامل الخلفية", "نشر App Store"],
+      "clientQuestion": "نحتاج إلى تطبيق لعملائنا أو موظفينا."
+    },
+    "tr": {
+      "title": "Mobil Uygulamalar",
+      "tagline": "İşiniz müşterilerinizin cebinde",
+      "description": "iOS ve Android için yerel ve çapraz platform mobil uygulamalar.",
+      "simpleExplanation": "Müşterileriniz veya çalışanlarınız her yerde çalışan bir uygulama ihtiyaç duyduğunda, biz onu inşa ediyoruz.",
+      "deliverables": ["iOS ve Android Uygulamaları (React Native)", "Çapraz Platform Geliştirme (Flutter)", "Dahili İş Uygulamaları", "Backend Entegrasyonlu Müşteri Uygulamaları", "App Store Yayınlama"],
+      "clientQuestion": "Müşterilerimiz veya çalışanlarımız için bir uygulama ihtiyacımız var."
+    }
+  }
+]

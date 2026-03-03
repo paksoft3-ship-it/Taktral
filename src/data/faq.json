@@ -1,0 +1,74 @@
+[
+  {
+    "de": {
+      "question": "Was genau macht Taktral — einfach erklärt?",
+      "answer": "Taktral ist Ihr technischer Umsetzungspartner für digitale Projekte. Wenn Sie ein Problem haben — zum Beispiel: 'Unser Online-Shop verkauft zu wenig', 'Unsere Mitarbeiter machen zu viel manuell', 'Wir brauchen eine App' — dann bauen wir die technische Lösung dafür. Wir sind kein Grafikdesignstudio und keine klassische Werbeagentur. Wir sind Ingenieure für digitale Systeme."
+    },
+    "en": {
+      "question": "What exactly does Taktral do — in simple terms?",
+      "answer": "Taktral is your technical implementation partner for digital projects. When you have a problem — for example: 'Our online shop sells too little', 'Our staff does too much manually', 'We need an app' — we build the technical solution for it. We are not a graphic design studio and not a traditional advertising agency. We are engineers for digital systems."
+    },
+    "ar": {
+      "question": "ماذا تفعل Taktral بالضبط — بعبارات بسيطة؟",
+      "answer": "Taktral هو شريكك التقني لتنفيذ المشاريع الرقمية. عندما يكون لديك مشكلة، نبني الحل التقني لها. نحن لسنا استوديو تصميم جرافيك أو وكالة إعلانية تقليدية. نحن مهندسون للأنظمة الرقمية."
+    },
+    "tr": {
+      "question": "Taktral tam olarak ne yapıyor — basit bir dille?",
+      "answer": "Taktral, dijital projeler için teknik uygulama ortağınızdır. Bir sorununuz olduğunda teknik çözümü inşa ediyoruz. Grafik tasarım stüdyosu veya geleneksel reklam ajansı değiliz. Dijital sistemler için mühendisleriz."
+    }
+  },
+  {
+    "de": {
+      "question": "Was kostet ein typisches Projekt?",
+      "answer": "Unsere Projekte liegen im Bereich von EUR 5.000 bis EUR 20.000. Die genaue Investition hängt vom Umfang ab. Eine einfache Automatisierungslösung liegt eher bei EUR 5.000–8.000. Ein vollständiges E-Commerce-System mit Backend und Integrationen liegt bei EUR 12.000–20.000. Wir arbeiten ausschließlich mit Festpreisangeboten — keine versteckten Kosten."
+    },
+    "en": {
+      "question": "What does a typical project cost?",
+      "answer": "Our projects range from EUR 5,000 to EUR 20,000. The exact investment depends on scope. A simple automation solution is closer to EUR 5,000–8,000. A complete e-commerce system with backend and integrations is EUR 12,000–20,000. We work exclusively with fixed-price proposals — no hidden costs."
+    },
+    "ar": {
+      "question": "كم يكلف المشروع النموذجي؟",
+      "answer": "تتراوح مشاريعنا من 5,000 إلى 20,000 يورو. نعمل حصراً بعروض أسعار ثابتة — لا تكاليف خفية."
+    },
+    "tr": {
+      "question": "Tipik bir proje ne kadar tutar?",
+      "answer": "Projelerimiz 5.000 ila 20.000 Euro arasında değişir. Yalnızca sabit fiyatlı tekliflerle çalışıyoruz — gizli maliyet yok."
+    }
+  },
+  {
+    "de": {
+      "question": "Wo sitzt Taktral — und ist das ein Problem?",
+      "answer": "Unser technisches Team arbeitet remote. Unser Ansprechpartner ist in Österreich ansässig und steht für persönliche Meetings, Telefonate und Vor-Ort-Termine zur Verfügung. Die Entwicklung findet remote statt — genau wie bei hunderten von erfolgreichen Tech-Firmen weltweit. Die Codequalität und die Projektergebnisse sind entscheidend, nicht der Standort des Entwicklers."
+    },
+    "en": {
+      "question": "Where is Taktral based — and is that a problem?",
+      "answer": "Our technical team works remotely. Our contact is based in Austria and is available for in-person meetings, calls, and on-site appointments. Development happens remotely — exactly like hundreds of successful tech firms worldwide. Code quality and project results are what matter, not the developer's location."
+    },
+    "ar": {
+      "question": "أين مقر Taktral — وهل هذه مشكلة؟",
+      "answer": "يعمل فريقنا التقني عن بُعد. جهة اتصالنا مقيمة في النمسا ومتاحة للاجتماعات الشخصية. التطوير يحدث عن بُعد، مثل مئات شركات التكنولوجيا الناجحة حول العالم."
+    },
+    "tr": {
+      "question": "Taktral nerede bulunuyor — bu bir sorun mu?",
+      "answer": "Teknik ekibimiz uzaktan çalışıyor. İletişim kişimiz Avusturya'da bulunuyor ve yüz yüze toplantılar için mevcut. Geliştirme uzaktan gerçekleşiyor — dünya genelinde yüzlerce başarılı teknoloji firması gibi."
+    }
+  },
+  {
+    "de": {
+      "question": "Wie läuft eine Zusammenarbeit ab?",
+      "answer": "1. Sie senden uns eine Anfrage (5 Minuten). 2. Unser Partner meldet sich innerhalb von 24 Stunden. 3. Erstgespräch (30–60 Min) um Ihr Projekt zu verstehen. 4. Wir liefern innerhalb von 5 Werktagen ein detailliertes Festpreisangebot. 5. Bei Beauftragung beginnen wir innerhalb von 2 Wochen. Kein Sales-Druck, keine endlosen Meetings — strukturierter Prozess."
+    },
+    "en": {
+      "question": "How does a collaboration work?",
+      "answer": "1. You send us an inquiry (5 minutes). 2. Our partner responds within 24 hours. 3. First consultation (30–60 min) to understand your project. 4. We deliver a detailed fixed-price proposal within 5 business days. 5. Upon commissioning, we start within 2 weeks. No sales pressure, no endless meetings — structured process."
+    },
+    "ar": {
+      "question": "كيف تسير عملية التعاون؟",
+      "answer": "1. ترسل لنا استفساراً (5 دقائق). 2. شريكنا يرد خلال 24 ساعة. 3. استشارة أولى (30-60 دقيقة). 4. نقدم عرضاً مفصلاً خلال 5 أيام عمل. 5. عند التعاقد، نبدأ خلال أسبوعين."
+    },
+    "tr": {
+      "question": "Bir işbirliği nasıl işliyor?",
+      "answer": "1. Bize bir sorgu gönderirsiniz (5 dakika). 2. Ortağımız 24 saat içinde yanıt verir. 3. İlk danışma (30-60 dk). 4. 5 iş günü içinde sabit fiyatlı teklif sunarız. 5. Görevlendirme üzerine 2 hafta içinde başlarız."
+    }
+  }
+]

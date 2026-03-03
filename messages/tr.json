@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "services": "Hizmetler",
+    "projects": "Projeler",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "insights": "İçgörüler",
+    "cta": "Proje Başlat"
+  },
+  "hero": {
+    "overline": "Dijital Sistem Mimarisi · DACH",
+    "headline": "Yapılandırılmış işletmeler için hassas sistemler.",
+    "subheadline": "DACH bölgesindeki hassasiyet, ölçeklenebilirlik ve sürdürülebilir mimariyi önemseyen şirketler için özel dijital sistemler inşa ediyoruz.",
+    "ctaPrimary": "Ücretsiz İlk Görüşme",
+    "ctaSecondary": "Projeleri Görüntüle",
+    "statsProjects": "Başarılı Proje",
+    "statsRegion": "Odak",
+    "statsBudget": "Bütçe Aralığı",
+    "statsRegionValue": "DACH Bölgesi",
+    "statsBudgetValue": "EUR 5K–20K"
+  },
+  "positioning": {
+    "label": "Bizi ayıran nedir",
+    "headline": "Tedarikçi değil. Sistem ortağı.",
+    "body": "Taktral, geleneksel iş operasyonları ile modern dijital mimari arasındaki boşluğu doldurur. Web sitesi inşa etmiyoruz — mutlak hassasiyet talep eden şirketler için dijital işletim sistemleri kuruyoruz.",
+    "body2": "Yaklaşımımız, hizmet verdiğimiz sektörlerin titiz standartlarını yansıtır. Kod, altyapı olarak ele alınır — dayanıklı, belgelenmiş ve uzun ömürlü tasarlanmış."
+  },
+  "services": {
+    "label": "Hizmetler",
+    "headline": "Sistem Çözümlerimiz",
+    "subheadline": "Orta ölçekli şirketler için özel dijital sistemler. Ölçeklenebilir, güvenli ve geleceğe yönelik.",
+    "viewAll": "Tüm Hizmetleri Görüntüle",
+    "simpleExplanationLabel": "Basit açıklama:",
+    "clientQuestionLabel": "Müşteriler sıkça sorar:",
+    "deliverablesLabel": "Teslim ettiklerimiz:"
+  },
+  "process": {
+    "label": "Sürecimiz",
+    "headline": "Mühendislik Standardı",
+    "subheadline": "Metodolojimiz titiz, şeffaf ve hesap verebilirlik için tasarlanmıştır.",
+    "durationLabel": "Süre"
+  },
+  "trust": {
+    "label": "Rakamlarla",
+    "headline": "Sonuçlarla güven",
+    "projects": "Proje",
+    "satisfaction": "Müşteri Memnuniyeti",
+    "region": "Uluslararası",
+    "budgetRange": "Bütçe Aralığı"
+  },
+  "faq": {
+    "label": "SSS",
+    "headline": "Sıkça Sorulan Sorular",
+    "subheadline": "İşbirliğimizle ilgili en önemli soruların cevapları."
+  },
+  "cta": {
+    "headline": "Bir sonraki dijital sisteminize hazır mısınız?",
+    "subheadline": "Zorluğunuzu anlatın. 24 saat içinde net bir sonraki adımla yanıt veriyoruz.",
+    "primary": "Şimdi Talep Gönderin",
+    "secondary": "Sürecimiz Hakkında Bilgi Alın"
+  },
+  "contact": {
+    "label": "Keşif Süreci",
+    "headline": "İlk Temas",
+    "subheadline": "Taktral ile yapılandırılmış dönüşüm sürecinizi başlatın.",
+    "step1Title": "Talep Gönderin",
+    "step1Desc": "Proje detaylarınızı form aracılığıyla bize gönderin.",
+    "step2Title": "İlk Görüşme (24 saat)",
+    "step2Desc": "İhtiyaçlarınızı analiz edip 24 saat içinde geri döneriz.",
+    "step3Title": "Teklif ve Yol Haritası (5 gün)",
+    "step3Desc": "Detaylı proje planı ve sabit fiyatlı teklif alırsınız.",
+    "email": "E-posta Adresi",
+    "response": "24 saat içinde yanıt",
+    "languages": "DE / EN / TR / AR",
+    "formTitle": "Proje Talebi",
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "company": "Şirket",
+    "emailField": "E-posta Adresi",
+    "phone": "Telefon (isteğe bağlı)",
+    "serviceInterest": "İlgilenilen Hizmet",
+    "budgetRange": "Proje Bütçesi",
+    "description": "Proje Açıklaması",
+    "submit": "Talebi Gönder",
+    "privacyNote": "Göndererek gizlilik politikamızı kabul etmiş olursunuz.",
+    "budget1": "EUR 5.000 – 10.000",
+    "budget2": "EUR 10.000 – 20.000",
+    "budget3": "EUR 20.000+"
+  },
+  "about": {
+    "label": "Hakkımızda",
+    "headline": "DACH Orta Pazarı için Dijital Mühendisler",
+    "subheadline": "Bir yaratıcı stüdyo değiliz. Bir teknik uygulama ekibiyiz.",
+    "howWeWork": "Nasıl Çalışıyoruz",
+    "remoteTitle": "Uzak ekip, yerel iletişim",
+    "remoteDesc": "Teknik geliştirme ekibimiz uzaktan çalışır. DACH iletişim kişimiz Avusturya'da bulunur ve yüz yüze toplantılar için mevcuttur.",
+    "fixedPriceTitle": "Sabit fiyat — her zaman",
+    "fixedPriceDesc": "Saatlik ücret yok, sonda sürpriz yok. Her proje net bir sabit fiyatlı teklifle başlar.",
+    "documentationTitle": "Eksiksiz dokümantasyon",
+    "documentationDesc": "Her projede eksiksiz teknik dokümantasyon teslim ediyoruz — böylece bize hiçbir zaman bağımlı olmazsınız.",
+    "communicationTitle": "Net iletişim",
+    "communicationDesc": "Almanca, İngilizce, Türkçe ve Arapça iletişim kuruyoruz. Teknik jargon yok, net durum güncellemeleri.",
+    "inPersonTitle": "Yüz yüze toplantılar mümkün",
+    "inPersonDesc": "Avusturya ve Almanya'daki müşteriler için talep üzerine yerinde randevular mümkündür."
+  },
+  "projects": {
+    "label": "Projeler",
+    "headline": "Seçilmiş Referanslar",
+    "subheadline": "Gerçek sorunları çözen gerçek sistemler.",
+    "filterAll": "Tümü",
+    "challengeLabel": "Zorluk",
+    "solutionLabel": "Çözüm",
+    "resultsLabel": "Sonuçlar",
+    "viewProject": "Projeyi Görüntüle"
+  },
+  "insights": {
+    "label": "İçgörüler",
+    "headline": "Teknik İçgörüler",
+    "subheadline": "Dijital sistemler, otomasyon ve teknik altyapı üzerine pratik bilgi.",
+    "readMore": "Devamını Oku"
+  },
+  "footer": {
+    "tagline": "DACH orta pazarı için dijital sistem mimarisi. Hassasiyet, şeffaflık ve sürdürülebilir yazılım mimarisi.",
+    "services": "Hizmetler",
+    "company": "Şirket",
+    "legal": "Hukuki",
+    "contactCol": "İletişim",
+    "about": "Hakkımızda",
+    "projects": "Projeler",
+    "insights": "İçgörüler",
+    "contact": "İletişim",
+    "impressum": "Künye",
+    "datenschutz": "Gizlilik Politikası",
+    "agb": "Koşullar",
+    "responseTime": "24 saat içinde yanıt",
+    "languages": "DE / EN / TR / AR",
+    "region": "DACH + Uluslararası",
+    "copyright": "© 2024 Taktral. Tüm hakları saklıdır."
+  },
+  "partnerGuide": {
+    "internalLabel": "Dahili Kılavuz — Müşteriler için Değil",
+    "headline": "Partner Kılavuzu",
+    "subheadline": "Bu kılavuz, Taktral hizmetlerini potansiyel müşterilere açıklamanıza ve konumlandırmanıza yardımcı olur.",
+    "passwordPlaceholder": "Şifre girin",
+    "passwordButton": "Erişim",
+    "wrongPassword": "Yanlış şifre. Lütfen tekrar deneyin.",
+    "section1": "Hizmetler Basit Açıklamalarla",
+    "section2": "Tipik Müşteri Soruları ve Cevaplar",
+    "section3": "Hizmete Göre Fiyat Aralıkları",
+    "section4": "Potansiyel Müşteriler için Nitelendirme Soruları",
+    "section5": "Dışlama Kriterleri (Kırmızı Bayraklar)",
+    "section6": "Uzak Ekibi Açıklamak"
+  }
+}

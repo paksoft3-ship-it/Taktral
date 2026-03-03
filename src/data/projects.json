@@ -1,0 +1,128 @@
+[
+  {
+    "id": "austrian-ecommerce-platform",
+    "category": "ecommerce-systems",
+    "year": "2024",
+    "budget": "EUR 15.000–18.000",
+    "de": {
+      "title": "B2B E-Commerce Plattform",
+      "client": "Österreichischer Großhändler",
+      "region": "Wien, Österreich",
+      "description": "Vollständige E-Commerce-Infrastruktur für einen österreichischen Großhändler mit B2B-Kundenportal, automatischer Bestellverarbeitung und Lagerverwaltungsintegration.",
+      "challenge": "Der Kunde verarbeitete 200+ Bestellungen täglich manuell per E-Mail. Fehlerquote hoch, Mitarbeiter überlastet.",
+      "solution": "Wir bauten ein maßgeschneidertes B2B-Portal mit automatischer Bestellerfassung, Lageranbindung und automatischer Rechnungserstellung.",
+      "results": ["80% weniger manuelle Arbeit", "Bestellfehler auf < 0,5% reduziert", "24/7 Bestellannahme ohne Personalaufwand"]
+    },
+    "en": {
+      "title": "B2B E-Commerce Platform",
+      "client": "Austrian Wholesale Distributor",
+      "region": "Vienna, Austria",
+      "description": "Complete e-commerce infrastructure for an Austrian wholesaler with B2B customer portal, automated order processing, and inventory management integration.",
+      "challenge": "The client was processing 200+ orders daily manually via email. High error rate, staff overwhelmed.",
+      "solution": "We built a custom B2B portal with automated order capture, inventory integration, and automatic invoice generation.",
+      "results": ["80% less manual work", "Order errors reduced to < 0.5%", "24/7 order acceptance without staffing cost"]
+    },
+    "ar": {
+      "title": "منصة التجارة الإلكترونية B2B",
+      "client": "موزع جملة نمساوي",
+      "region": "فيينا، النمسا",
+      "description": "بنية تحتية متكاملة للتجارة الإلكترونية مع بوابة عملاء B2B وأتمتة معالجة الطلبات.",
+      "challenge": "كان العميل يعالج أكثر من 200 طلب يومياً يدوياً عبر البريد الإلكتروني.",
+      "solution": "بنينا بوابة B2B مخصصة مع التقاط آلي للطلبات وتوليد فواتير تلقائي.",
+      "results": ["80% تقليل في العمل اليدوي", "أخطاء الطلبات أقل من 0.5%", "قبول طلبات 24/7"]
+    },
+    "tr": {
+      "title": "B2B E-Ticaret Platformu",
+      "client": "Avusturyalı Toptan Dağıtıcı",
+      "region": "Viyana, Avusturya",
+      "description": "B2B müşteri portalı ve otomatik sipariş işleme ile tam e-ticaret altyapısı.",
+      "challenge": "Müşteri günlük 200+ siparişi e-posta yoluyla manuel olarak işliyordu.",
+      "solution": "Otomatik sipariş yakalama ve fatura oluşturma ile özel B2B portalı inşa ettik.",
+      "results": ["Manuel iş %80 azaldı", "Sipariş hataları < %0,5'e düştü", "Personel maliyeti olmadan 7/24 sipariş kabulü"]
+    }
+  },
+  {
+    "id": "german-automation-crm",
+    "category": "automation-ai",
+    "year": "2023",
+    "budget": "EUR 8.000–10.000",
+    "de": {
+      "title": "CRM & Marketing Automatisierung",
+      "client": "Mittelständisches Beratungsunternehmen",
+      "region": "München, Deutschland",
+      "description": "Integration eines bestehenden CRM-Systems mit automatisierten E-Mail-Sequenzen, Lead-Qualifizierung und Reporting-Dashboard.",
+      "challenge": "Das Vertriebsteam verbrachte 3+ Stunden täglich mit manueller Dateneingabe und E-Mail-Follow-ups.",
+      "solution": "Vollständige CRM-Automatisierung: automatische Lead-Erfassung, E-Mail-Sequenzen und Echtzeit-Reporting-Dashboard.",
+      "results": ["3 Stunden tägliche Zeitersparnis pro Mitarbeiter", "Lead-Antwortzeit von 48h auf 2h reduziert", "Conversion-Rate um 23% gestiegen"]
+    },
+    "en": {
+      "title": "CRM & Marketing Automation",
+      "client": "Mid-size Consulting Firm",
+      "region": "Munich, Germany",
+      "description": "Integration of an existing CRM system with automated email sequences, lead qualification, and reporting dashboard.",
+      "challenge": "The sales team spent 3+ hours daily on manual data entry and email follow-ups.",
+      "solution": "Complete CRM automation: automatic lead capture, email sequences, and real-time reporting dashboard.",
+      "results": ["3 hours daily time savings per employee", "Lead response time reduced from 48h to 2h", "Conversion rate increased by 23%"]
+    },
+    "ar": {
+      "title": "أتمتة CRM والتسويق",
+      "client": "شركة استشارات متوسطة",
+      "region": "ميونخ، ألمانيا",
+      "description": "تكامل نظام CRM الحالي مع تسلسلات البريد الإلكتروني الآلية وتأهيل العملاء المحتملين.",
+      "challenge": "كان فريق المبيعات يقضي أكثر من 3 ساعات يومياً في إدخال البيانات يدوياً.",
+      "solution": "أتمتة CRM كاملة مع لوحة تقارير في الوقت الفعلي.",
+      "results": ["توفير 3 ساعات يومياً لكل موظف", "تقليل وقت الاستجابة للعملاء المحتملين", "زيادة معدل التحويل بنسبة 23%"]
+    },
+    "tr": {
+      "title": "CRM & Pazarlama Otomasyonu",
+      "client": "Orta Ölçekli Danışmanlık Firması",
+      "region": "Münih, Almanya",
+      "description": "Mevcut CRM sisteminin otomatik e-posta dizileri ve potansiyel müşteri nitelendirmesiyle entegrasyonu.",
+      "challenge": "Satış ekibi günlük 3+ saat manuel veri girişi ve e-posta takibi yapıyordu.",
+      "solution": "Tam CRM otomasyonu ve gerçek zamanlı raporlama paneli.",
+      "results": ["Çalışan başına günlük 3 saat tasarruf", "Potansiyel müşteri yanıt süresi 48h'den 2h'ye düştü", "Dönüşüm oranı %23 arttı"]
+    }
+  },
+  {
+    "id": "saas-platform-startup",
+    "category": "digital-infrastructure",
+    "year": "2024",
+    "budget": "EUR 18.000–22.000",
+    "de": {
+      "title": "SaaS Plattform für HR-Software",
+      "client": "HR-Tech Startup",
+      "region": "Wien, Österreich",
+      "description": "Vollständige SaaS-Plattform mit Multi-Tenant-Architektur, Abrechnungssystem (Stripe) und Unternehmens-Dashboard für HR-Prozesse.",
+      "challenge": "Das Startup hatte eine Idee, aber keine technische Umsetzung. Gesucht: vollständige technische Infrastruktur von Grund auf.",
+      "solution": "Wir bauten die gesamte technische Basis: Next.js Frontend, Node.js Backend, PostgreSQL Datenbank, Multi-Tenant-Architektur und Stripe-Integration.",
+      "results": ["Launch in 8 Wochen", "50+ Unternehmenskunden im ersten Monat", "99,9% Uptime seit Launch"]
+    },
+    "en": {
+      "title": "SaaS Platform for HR Software",
+      "client": "HR-Tech Startup",
+      "region": "Vienna, Austria",
+      "description": "Complete SaaS platform with multi-tenant architecture, billing system (Stripe), and enterprise dashboard for HR processes.",
+      "challenge": "The startup had an idea but no technical implementation. Needed: complete technical infrastructure from scratch.",
+      "solution": "We built the entire technical base: Next.js frontend, Node.js backend, PostgreSQL database, multi-tenant architecture, and Stripe integration.",
+      "results": ["Launch in 8 weeks", "50+ enterprise clients in the first month", "99.9% uptime since launch"]
+    },
+    "ar": {
+      "title": "منصة SaaS لبرنامج الموارد البشرية",
+      "client": "شركة ناشئة في مجال HR-Tech",
+      "region": "فيينا، النمسا",
+      "description": "منصة SaaS كاملة مع بنية متعددة المستأجرين ونظام فوترة ولوحة تحكم للمؤسسات.",
+      "challenge": "كان لدى الشركة الناشئة فكرة لكن لا تنفيذ تقني. الحاجة: بنية تحتية تقنية كاملة من الصفر.",
+      "solution": "بنينا القاعدة التقنية بأكملها مع بنية متعددة المستأجرين وتكامل Stripe.",
+      "results": ["إطلاق في 8 أسابيع", "50+ عميل مؤسسي في الشهر الأول", "99.9% وقت تشغيل منذ الإطلاق"]
+    },
+    "tr": {
+      "title": "HR Yazılımı için SaaS Platformu",
+      "client": "HR-Tech Girişimi",
+      "region": "Viyana, Avusturya",
+      "description": "Çok kiracılı mimari, faturalandırma sistemi (Stripe) ve İK süreçleri için kurumsal pano ile tam SaaS platformu.",
+      "challenge": "Girişimin bir fikri vardı ama teknik uygulaması yoktu. İhtiyaç: sıfırdan tam teknik altyapı.",
+      "solution": "Tüm teknik tabanı inşa ettik: Next.js frontend, Node.js backend, çok kiracılı mimari ve Stripe entegrasyonu.",
+      "results": ["8 haftada lansman", "İlk ayda 50+ kurumsal müşteri", "Başlatmadan bu yana %99,9 uptime"]
+    }
+  }
+]

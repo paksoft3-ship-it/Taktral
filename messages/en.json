@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "insights": "Insights",
+    "cta": "Start a Project"
+  },
+  "hero": {
+    "overline": "Digital Systems Architecture · DACH",
+    "headline": "Precision systems for structured businesses.",
+    "subheadline": "We build custom digital systems for DACH-region companies that value precision, scalability, and sustainable architecture.",
+    "ctaPrimary": "Free Initial Consultation",
+    "ctaSecondary": "View Projects",
+    "statsProjects": "Successful Projects",
+    "statsRegion": "Focus",
+    "statsBudget": "Budget Range",
+    "statsRegionValue": "DACH Region",
+    "statsBudgetValue": "EUR 5K–20K"
+  },
+  "positioning": {
+    "label": "What sets us apart",
+    "headline": "Not a vendor. A systems partner.",
+    "body": "Taktral bridges the gap between traditional business operations and modern digital architecture. We don't build websites — we construct digital operating systems for companies that demand absolute precision.",
+    "body2": "Our approach mirrors the meticulous standards of the industries we serve. Code is treated as infrastructure — durable, documented, and designed for longevity."
+  },
+  "services": {
+    "label": "Services",
+    "headline": "Our System Solutions",
+    "subheadline": "Custom digital systems for mid-market companies. Scalable, secure, and future-oriented.",
+    "viewAll": "View All Services",
+    "simpleExplanationLabel": "Simply explained:",
+    "clientQuestionLabel": "Clients often ask us:",
+    "deliverablesLabel": "What we deliver:"
+  },
+  "process": {
+    "label": "Our Process",
+    "headline": "The Engineering Standard",
+    "subheadline": "Our methodology is rigorous, transparent, and designed for accountability.",
+    "durationLabel": "Duration"
+  },
+  "trust": {
+    "label": "By the numbers",
+    "headline": "Trust through results",
+    "projects": "Projects",
+    "satisfaction": "Client Satisfaction",
+    "region": "International",
+    "budgetRange": "Budget Range"
+  },
+  "faq": {
+    "label": "FAQ",
+    "headline": "Frequently Asked Questions",
+    "subheadline": "Answers to the most important questions about our collaboration."
+  },
+  "cta": {
+    "headline": "Ready for your next digital system?",
+    "subheadline": "Describe your challenge to us. We respond within 24 hours with a clear next step.",
+    "primary": "Submit a Request",
+    "secondary": "Learn About Our Process"
+  },
+  "contact": {
+    "label": "Discovery Process",
+    "headline": "Initial Contact",
+    "subheadline": "Start your structured transformation process with Taktral. We analyze your requirements precisely.",
+    "step1Title": "Submit Inquiry",
+    "step1Desc": "Send us your project details through the form.",
+    "step2Title": "Initial Consultation (24h)",
+    "step2Desc": "We analyze your needs and respond within 24 hours.",
+    "step3Title": "Proposal & Roadmap (5 days)",
+    "step3Desc": "You receive a detailed project plan and fixed-price proposal.",
+    "email": "Email Address",
+    "response": "Response within 24h",
+    "languages": "DE / EN / TR / AR",
+    "formTitle": "Project Inquiry",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "company": "Company",
+    "emailField": "Email Address",
+    "phone": "Phone (optional)",
+    "serviceInterest": "Service of Interest",
+    "budgetRange": "Project Budget",
+    "description": "Project Description",
+    "submit": "Submit Inquiry",
+    "privacyNote": "By submitting you agree to our privacy policy.",
+    "budget1": "EUR 5,000 – 10,000",
+    "budget2": "EUR 10,000 – 20,000",
+    "budget3": "EUR 20,000+"
+  },
+  "about": {
+    "label": "About",
+    "headline": "Digital Engineers for the DACH Mid-Market",
+    "subheadline": "We are not a creative studio. We are a technical implementation team.",
+    "howWeWork": "How We Work",
+    "remoteTitle": "Remote team, local contact",
+    "remoteDesc": "Our technical development team works remotely. Our DACH contact is based in Austria and is available for in-person meetings.",
+    "fixedPriceTitle": "Fixed price — always",
+    "fixedPriceDesc": "No hourly fees, no surprises at the end. Every project starts with a clear fixed-price proposal.",
+    "documentationTitle": "Complete documentation",
+    "documentationDesc": "With every project we deliver complete technical documentation — so you are never dependent on us.",
+    "communicationTitle": "Clear communication",
+    "communicationDesc": "We communicate in German, English, Turkish, and Arabic. No tech jargon, clear status updates.",
+    "inPersonTitle": "In-person meetings possible",
+    "inPersonDesc": "For clients in Austria and Germany, in-person on-site appointments are available on request."
+  },
+  "projects": {
+    "label": "Projects",
+    "headline": "Selected References",
+    "subheadline": "Real systems that solved real problems.",
+    "filterAll": "All",
+    "challengeLabel": "Challenge",
+    "solutionLabel": "Solution",
+    "resultsLabel": "Results",
+    "viewProject": "View Project"
+  },
+  "insights": {
+    "label": "Insights",
+    "headline": "Technical Insights",
+    "subheadline": "Practical knowledge on digital systems, automation, and technical infrastructure.",
+    "readMore": "Read More"
+  },
+  "footer": {
+    "tagline": "Digital systems architecture for the DACH mid-market. Precision, transparency, and sustainable software architecture.",
+    "services": "Services",
+    "company": "Company",
+    "legal": "Legal",
+    "contactCol": "Contact",
+    "about": "About",
+    "projects": "Projects",
+    "insights": "Insights",
+    "contact": "Contact",
+    "impressum": "Imprint",
+    "datenschutz": "Privacy Policy",
+    "agb": "Terms",
+    "responseTime": "Response within 24h",
+    "languages": "DE / EN / TR / AR",
+    "region": "DACH + International",
+    "copyright": "© 2024 Taktral. All rights reserved."
+  },
+  "partnerGuide": {
+    "internalLabel": "Internal Guide — Not for Clients",
+    "headline": "Partner Guide",
+    "subheadline": "This guide helps you explain and position Taktral services to potential clients.",
+    "passwordPlaceholder": "Enter password",
+    "passwordButton": "Access",
+    "wrongPassword": "Incorrect password. Please try again.",
+    "section1": "Services Simply Explained",
+    "section2": "Typical Client Questions & Answers",
+    "section3": "Pricing Ranges by Service",
+    "section4": "Qualification Questions for Prospects",
+    "section5": "Exclusion Criteria (Red Flags)",
+    "section6": "Explaining the Remote Team"
+  }
+}

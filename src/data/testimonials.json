@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Michael Huber",
+    "company": "Huber Handel GmbH",
+    "role": "Geschäftsführer",
+    "region": "Salzburg, AT",
+    "de": {
+      "quote": "Taktral hat nicht nur eine Software geliefert — sie haben verstanden, wie unser Unternehmen funktioniert, und ein System gebaut, das wirklich zu uns passt. Festpreis, pünktliche Lieferung, keine Überraschungen."
+    },
+    "en": {
+      "quote": "Taktral didn't just deliver software — they understood how our business works and built a system that truly fits us. Fixed price, on-time delivery, no surprises."
+    }
+  },
+  {
+    "name": "Anna Berger",
+    "company": "Berger & Partner Beratung",
+    "role": "CEO",
+    "region": "München, DE",
+    "de": {
+      "quote": "Die Automatisierungslösung hat unserem Team 3 Stunden täglich eingespart. Der ROI war innerhalb von 6 Wochen erreicht. Ich wünschte, ich hätte früher angefangen."
+    },
+    "en": {
+      "quote": "The automation solution saved our team 3 hours daily. ROI was achieved within 6 weeks. I wish I had started earlier."
+    }
+  }
+]

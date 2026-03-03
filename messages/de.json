@@ -1,0 +1,154 @@
+{
+  "nav": {
+    "services": "Leistungen",
+    "projects": "Projekte",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "insights": "Einblicke",
+    "cta": "Projekt anfragen"
+  },
+  "hero": {
+    "overline": "Digitale Systemarchitektur · DACH",
+    "headline": "Präzisionssysteme für strukturierte Unternehmen.",
+    "subheadline": "Wir entwickeln maßgeschneiderte digitale Systeme für Unternehmen im DACH-Raum, die Wert auf Präzision, Skalierbarkeit und nachhaltige Architektur legen.",
+    "ctaPrimary": "Kostenloses Erstgespräch",
+    "ctaSecondary": "Projekte ansehen",
+    "statsProjects": "Erfolgreiche Projekte",
+    "statsRegion": "Fokus",
+    "statsBudget": "Budgetrahmen",
+    "statsRegionValue": "DACH Region",
+    "statsBudgetValue": "EUR 5K–20K"
+  },
+  "positioning": {
+    "label": "Was uns unterscheidet",
+    "headline": "Kein Dienstleister. Ein Systempartner.",
+    "body": "Taktral überbrückt die Lücke zwischen traditionellem Unternehmertum und moderner digitaler Architektur. Wir bauen keine Websites — wir konstruieren digitale Betriebssysteme für Unternehmen, die absolute Präzision fordern.",
+    "body2": "Unser Ansatz entspricht den sorgfältigen Standards der Branchen, die wir bedienen. Code wird als Infrastruktur behandelt — dauerhaft, dokumentiert und für Langlebigkeit konzipiert."
+  },
+  "services": {
+    "label": "Leistungen",
+    "headline": "Unsere Systemlösungen",
+    "subheadline": "Maßgeschneiderte digitale Systeme für den Mittelstand. Skalierbar, sicher und zukunftsorientiert.",
+    "viewAll": "Alle Leistungen ansehen",
+    "simpleExplanationLabel": "Einfach erklärt:",
+    "clientQuestionLabel": "Kunden fragen uns oft:",
+    "deliverablesLabel": "Was wir liefern:"
+  },
+  "process": {
+    "label": "Unser Prozess",
+    "headline": "Der Ingenieur-Standard",
+    "subheadline": "Unsere Methodik ist rigoros, transparent und auf Verantwortlichkeit ausgelegt.",
+    "durationLabel": "Dauer"
+  },
+  "trust": {
+    "label": "In Zahlen",
+    "headline": "Vertrauen durch Ergebnisse",
+    "projects": "Projekte",
+    "satisfaction": "Kundenzufriedenheit",
+    "region": "International",
+    "budgetRange": "Budgetrahmen"
+  },
+  "faq": {
+    "label": "FAQ",
+    "headline": "Häufig gestellte Fragen",
+    "subheadline": "Antworten auf die wichtigsten Fragen zu unserer Zusammenarbeit."
+  },
+  "cta": {
+    "headline": "Bereit für Ihr nächstes digitales System?",
+    "subheadline": "Schildern Sie uns Ihre Herausforderung. Wir melden uns innerhalb von 24 Stunden mit einem klaren nächsten Schritt.",
+    "primary": "Jetzt Anfrage stellen",
+    "secondary": "Mehr über unseren Prozess"
+  },
+  "contact": {
+    "label": "Discovery Prozess",
+    "headline": "Erstkontakt",
+    "subheadline": "Starten Sie Ihren strukturierten Transformationsprozess mit Taktral. Wir analysieren Ihre Anforderungen präzise.",
+    "step1Title": "Anfrage einreichen",
+    "step1Desc": "Senden Sie uns Ihre Projektdetails über das Formular.",
+    "step2Title": "Erstgespräch (24h)",
+    "step2Desc": "Wir analysieren Ihren Bedarf und melden uns innerhalb von 24 Stunden.",
+    "step3Title": "Angebot & Roadmap (5 Tage)",
+    "step3Desc": "Sie erhalten einen detaillierten Projektplan und Festpreisangebot.",
+    "email": "E-Mail Adresse",
+    "response": "Antwort innerhalb 24h",
+    "languages": "DE / EN / TR / AR",
+    "formTitle": "Projektanfrage",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "company": "Unternehmen",
+    "emailField": "E-Mail Adresse",
+    "phone": "Telefon (optional)",
+    "serviceInterest": "Interessiertes Leistungsfeld",
+    "budgetRange": "Projektbudget",
+    "description": "Projektbeschreibung",
+    "submit": "Anfrage absenden",
+    "privacyNote": "Mit dem Absenden stimmen Sie unserer Datenschutzerklärung zu.",
+    "budget1": "EUR 5.000 – 10.000",
+    "budget2": "EUR 10.000 – 20.000",
+    "budget3": "EUR 20.000+"
+  },
+  "about": {
+    "label": "Über uns",
+    "headline": "Digital-Ingenieure für den DACH-Mittelstand",
+    "subheadline": "Wir sind kein Kreativstudio. Wir sind ein technisches Umsetzungsteam.",
+    "howWeWork": "Wie wir arbeiten",
+    "remoteTitle": "Remote-Team, lokaler Ansprechpartner",
+    "remoteDesc": "Unser technisches Entwicklungsteam arbeitet remote. Unser DACH-Ansprechpartner sitzt in Österreich und steht für persönliche Meetings zur Verfügung.",
+    "fixedPriceTitle": "Festpreis — immer",
+    "fixedPriceDesc": "Kein Stundenhonorar, keine Überraschungen am Ende. Jedes Projekt beginnt mit einem klaren Festpreisangebot.",
+    "documentationTitle": "Vollständige Dokumentation",
+    "documentationDesc": "Mit jedem Projekt liefern wir vollständige technische Dokumentation — damit Sie nie von uns abhängig sind.",
+    "communicationTitle": "Kommunikation auf Augenhöhe",
+    "communicationDesc": "Wir kommunizieren auf Deutsch, Englisch, Türkisch und Arabisch. Kein Techniker-Jargon, klare Statusupdates.",
+    "inPersonTitle": "Persönliche Meetings möglich",
+    "inPersonDesc": "Für Kunden in Österreich und Deutschland sind persönliche Vor-Ort-Termine auf Anfrage möglich."
+  },
+  "projects": {
+    "label": "Projekte",
+    "headline": "Ausgewählte Referenzen",
+    "subheadline": "Reale Systeme, die echte Probleme gelöst haben.",
+    "filterAll": "Alle",
+    "challengeLabel": "Herausforderung",
+    "solutionLabel": "Lösung",
+    "resultsLabel": "Ergebnisse",
+    "viewProject": "Projekt ansehen"
+  },
+  "insights": {
+    "label": "Einblicke",
+    "headline": "Technische Einblicke",
+    "subheadline": "Praxiswissen über digitale Systeme, Automatisierung und technische Infrastruktur.",
+    "readMore": "Weiterlesen"
+  },
+  "footer": {
+    "tagline": "Digitale Systemarchitektur für den DACH-Mittelstand. Präzision, Transparenz und nachhaltige Software-Architektur.",
+    "services": "Leistungen",
+    "company": "Unternehmen",
+    "legal": "Rechtliches",
+    "contactCol": "Kontakt",
+    "about": "Über uns",
+    "projects": "Projekte",
+    "insights": "Einblicke",
+    "contact": "Kontakt",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz",
+    "agb": "AGB",
+    "responseTime": "Antwort innerhalb 24h",
+    "languages": "DE / EN / TR / AR",
+    "region": "DACH + International",
+    "copyright": "© 2024 Taktral. Alle Rechte vorbehalten."
+  },
+  "partnerGuide": {
+    "internalLabel": "Interner Leitfaden — Nicht für Kunden",
+    "headline": "Partner-Leitfaden",
+    "subheadline": "Dieser Leitfaden hilft Ihnen, Taktral-Leistungen gegenüber potenziellen Kunden zu erklären und zu positionieren.",
+    "passwordPlaceholder": "Passwort eingeben",
+    "passwordButton": "Zugang",
+    "wrongPassword": "Falsches Passwort. Bitte erneut versuchen.",
+    "section1": "Leistungen einfach erklärt",
+    "section2": "Typische Kundenfragen & Antworten",
+    "section3": "Preisrahmen nach Leistung",
+    "section4": "Qualifizierungsfragen für Potenzial-Kunden",
+    "section5": "Ausschlusskriterien (Red Flags)",
+    "section6": "Remote-Team erklären"
+  }
+}
