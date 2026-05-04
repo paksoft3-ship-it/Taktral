@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
-import { Mail, Clock, Globe } from "lucide-react";
+import { Mail, Clock, Globe, Phone } from "lucide-react";
 
 const serviceLinks = [
   { href: "/services#digital-infrastructure", labelKey: "digitalInfra" },
@@ -161,6 +161,22 @@ export default function Footer() {
             </h3>
 
             <ul className="space-y-4" role="list">
+              <li className="flex items-start gap-3">
+                <Phone
+                  size={14}
+                  className="text-gold flex-shrink-0 mt-0.5"
+                  aria-hidden="true"
+                />
+                <div>
+                  <a
+                    href="tel:+905525677164"
+                    className="font-body text-sm text-white/80 hover:text-white transition-colors duration-200"
+                  >
+                    +90 552 567 71 64
+                  </a>
+                </div>
+              </li>
+
               <li className="flex items-start gap-3">
                 <Mail
                   size={14}

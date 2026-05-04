@@ -4,7 +4,7 @@ import { useState } from "react";
 import { useTranslations } from "next-intl";
 import { useParams } from "next/navigation";
 import SectionLabel from "@/components/ui/SectionLabel";
-import { Mail, Clock, Globe, Send, ArrowRight } from "lucide-react";
+import { Mail, Clock, Globe, Send, ArrowRight, Phone } from "lucide-react";
 import servicesData from "@/data/services.json";
 
 type Locale = "de" | "en" | "ar" | "tr";
@@ -111,6 +111,15 @@ export default function ContactPage() {
               {/* Contact info */}
               <div className="border-t border-border-light pt-8 space-y-5">
                 <div className="flex items-center gap-3">
+                  <Phone size={16} className="text-gold flex-shrink-0" />
+                  <a
+                    href="tel:+905525677164"
+                    className="font-body text-sm text-charcoal hover:text-navy transition-colors"
+                  >
+                    +90 552 567 71 64
+                  </a>
+                </div>
+                <div className="flex items-center gap-3">
                   <Mail size={16} className="text-gold flex-shrink-0" />
                   <a
                     href="mailto:hallo@taktral.com"
@@ -132,6 +141,7 @@ export default function ContactPage() {
                   </span>
                 </div>
               </div>
+
             </div>
 
             {/* Right: form */}
