@@ -3,6 +3,8 @@ import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { Mail, Clock, Globe, Phone } from "lucide-react";
 
+
+
 const serviceLinks = [
   { href: "/services#digital-infrastructure", labelKey: "digitalInfra" },
   { href: "/services#ecommerce-systems", labelKey: "ecommerce" },
